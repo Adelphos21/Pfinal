@@ -1,0 +1,5 @@
+EPSILON = "ε"
+
+ENDMARKER = "$"
+
+AUGMENTED_SYMBOL = "'"
